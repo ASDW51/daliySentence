@@ -16,7 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v3
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
@@ -31,10 +31,9 @@ jobs:
         ddtoken: ${{ secrets.DDTOKEN }}
         secret: ${{ secrets.SERVERSECRET }}
       run: |
-        sudo chmod 777 .
         python dayliySentence.py
     - name: clone
-      uses: JamesIves/github-pages-deploy-action@v4
+      uses: JamesIves/github-pages-deploy-action@v4.3.3
       with:
         folder: /
         branch: main
