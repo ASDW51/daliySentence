@@ -16,7 +16,7 @@ def robot_s(test):
     secret = os.environ['secret']
     server_url = f'https://sc.ftqq.com/{secret}.send?text={times + text}&desp='
     server_url += test
-    print(times)
+    # print(times)
     response = requests.get(server_url)
     # print(response.text)
 
@@ -43,7 +43,7 @@ def robot_ding(test):
     }
     response = requests.post(url, data=json.dumps(data), headers=hd)
     response.encoding = 'utf-8'
-    print(response.text)
+    # print(response.text)
 
 
 def write_readme(obj):
@@ -52,11 +52,11 @@ def write_readme(obj):
 ###{times}
 ```
     {obj['content']}\n
-    {obj['note']}
+    {obj['note']}pr
 ```
 '''
-    with open("./README.md",'a+',encoding="utf-8") as file:
-        file.write(str)
+    # with open("./README.md",'a+',encoding="utf-8") as file:
+    #     file.write(str)
     print(str)
     return
 
@@ -67,7 +67,7 @@ daily_response = requests.get(daily_sentence_url)
 daily_data = daily_response.text
 new_daily_data = json.loads(daily_data)
 text = f'当前时间：{time.strftime("%Y/%m/%d %H:%M:%S", time.localtime())}\n每日一句 {new_daily_data["title"]}\n{new_daily_data["content"]}\n{new_daily_data["note"]}'
-print(text)
+# print(text)
 robot_s(text)
 robot_ding(text)
 write_readme(new_daily_data)

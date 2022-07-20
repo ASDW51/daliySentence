@@ -30,4 +30,4 @@ jobs:
         ddtoken: ${{ secrets.DDTOKEN }}
         secret: ${{ secrets.SERVERSECRET }}
       run: |
-        python dayliySentence.py
+        python dayliySentence.py >> README.md
