@@ -55,8 +55,9 @@ def write_readme(obj):
     {obj['note']}
 ```
 '''
-    with open("./README.md",'a+',encoding="utf-8") as file:
+    with open("README.md",'a+',encoding="utf-8") as file:
         file.write(str)
+        print(file)
     print(str)
     return
 
