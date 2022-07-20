@@ -37,8 +37,7 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4.2.2
       with:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # GitHub 密钥
-        inputs:
-          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # GitHub 密钥
+        token: ${{ secrets.ACCESS_TOKEN }}
         branch:
           main
         folder: ./
