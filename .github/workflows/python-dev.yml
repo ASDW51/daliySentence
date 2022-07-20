@@ -2,8 +2,6 @@
 # For more information see: https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#publishing-to-package-registries
 
 name: write
-permissions:
-  contents: write
 on:
  push:
     branches:
@@ -33,6 +31,7 @@ jobs:
         ddtoken: ${{ secrets.DDTOKEN }}
         secret: ${{ secrets.SERVERSECRET }}
       run: |
+        sudo chmod 777 .
         python dayliySentence.py
     - name: clone
       uses: JamesIves/github-pages-deploy-action@v4
