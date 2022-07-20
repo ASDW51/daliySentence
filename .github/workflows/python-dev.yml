@@ -3,7 +3,9 @@
 
 name: write
 inputs:
-  ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # GitHub 密钥
+  ACCESS_TOKEN:
+      description: 'desc'
+      default: ${{ secrets.ACCESS_TOKEN }} # GitHub 密钥
 on:
  push:
     branches:
