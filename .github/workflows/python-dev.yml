@@ -35,12 +35,10 @@ jobs:
         python dayliySentence.py
     - name: clone
       uses: JamesIves/github-pages-deploy-action@v4.2.2
-      inputs:
-        ACCESS_TOKEN:
-          description: 'desc'
-          default: ${{ secrets.ACCESS_TOKEN }} # GitHub 密钥
       with:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # GitHub 密钥
+        inputs:
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }} # GitHub 密钥
         branch:
           main
         folder: ./
