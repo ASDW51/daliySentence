@@ -28,5 +28,6 @@ jobs:
       env:
         ddsecret: ${{ secrets.DDSECRET }}
         ddtoken: ${{ secrets.DDTOKEN }}
+        secret: ${{ secrets.SERVERSECRET }}
       run: |
         python dayliySentence.py
