@@ -2,8 +2,6 @@
 # For more information see: https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#publishing-to-package-registries
 
 name: write
-permissions:
-  contents: write
 on:
  push:
     branches:
@@ -35,9 +33,9 @@ jobs:
       run: |
         python dayliySentence.py
     - name: clone
-      uses: JamesIves/github-pages-deploy-action@v4
+      uses: JamesIves/github-pages-deploy-action@3.6.2
       with:
-        token: ${{ secrets.ACCESS_TOKEN }}
-        branch:
-          main
-        folder: ./
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BRANCH: main # The branch the action should deploy to.
+        FOLDER: / # The folder the action should deploy.
+        CLEAN: true # Automatically remove deleted files from the deploy branch
