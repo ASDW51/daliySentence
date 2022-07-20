@@ -36,7 +36,7 @@ jobs:
         python dayliySentence.py
     - name: Install rsync 📚
       run: |
-        apt-get update && apt-get install -y rsync
+        sudo apt-get update && sudo apt-get install -y rsync
     - name: clone
       uses: JamesIves/github-pages-deploy-action@v4
       with:
