@@ -31,6 +31,7 @@ jobs:
         ddtoken: ${{ secrets.DDTOKEN }}
         secret: ${{ secrets.SERVERSECRET }}
       run: |
+        sudo chown --recursive $USER ./
         python dayliySentence.py
     - name: clone
       uses: JamesIves/github-pages-deploy-action@3.6.2
