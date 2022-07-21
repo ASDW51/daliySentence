@@ -4,8 +4,6 @@
 name: write
 on:
  push:
-    branches:
-      - dev
  schedule:
      - cron: "0 0 * * *"
 
