@@ -35,11 +35,10 @@ jobs:
         python dayliySentence.py
     - name: commit
       run: |
-        git config --global user.name 'evrstr'
-        git config --global user.email '429427989@qq.com'
+        git config --global user.name 'ASDW51'
+        git config --global user.email '1598926913@qq.com'
         export TZ='Asia/Shanghai'
-        git add.
-        git commit -m "update"-a
+        git commit -m "update" -a
     - name: push
       uses: ad-m/github-push-action@master
       with:
