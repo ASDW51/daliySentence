@@ -49,10 +49,10 @@ def robot_ding(test):
 def write_readme(obj):
     times = time.strftime("%Y/%m/%d", time.localtime())
     str = f'''
-###{times}
+### {times}
 ```
     {obj['content']}\n
-    {obj['note']}pr
+    {obj['note']}
 ```
 '''
     with open("./README.md",'a+',encoding="utf-8") as file:
