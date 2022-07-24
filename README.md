@@ -19,3 +19,10 @@
 
     爱是想象力，对方是载体，是你赋予它意义。
 ```
+
+### 2022/07/24
+```
+    When you cry for missing the sun, you will miss the stars again.
+
+    当你为错过太阳而哭泣时，你也要再错过群星了。
+```
