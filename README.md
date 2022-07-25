@@ -26,3 +26,10 @@
 
     当你为错过太阳而哭泣时，你也要再错过群星了。
 ```
+
+### 2022/07/25
+```
+    The smartest people understand that they are the most ignorant ones. 
+
+    最聪明的人明白自己是最无知的。
+```
