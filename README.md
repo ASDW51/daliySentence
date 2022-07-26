@@ -33,3 +33,10 @@
 
     最聪明的人明白自己是最无知的。
 ```
+
+### 2022/07/26
+```
+    You can do whatever you want, but you can't drift with the tide.
+
+    你可以随心所欲，但不能随波逐流。
+```
