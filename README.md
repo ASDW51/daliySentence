@@ -54,3 +54,10 @@
 
     我还在原地等你，你却已经忘记曾来过这里。
 ```
+
+### 2022/07/29
+```
+    Don't trouble trouble till trouble troubles you.
+
+    不要自找麻烦，除非麻烦找上门。
+```
