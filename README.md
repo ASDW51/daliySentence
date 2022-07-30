@@ -61,3 +61,10 @@
 
     不要自找麻烦，除非麻烦找上门。
 ```
+
+### 2022/07/30
+```
+    Be loyal to yourself. Laugh heartily, cry heartily.
+
+    做一个忠于自己的人。笑得放肆，哭得酣畅。
+```
