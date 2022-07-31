@@ -68,3 +68,10 @@
 
     做一个忠于自己的人。笑得放肆，哭得酣畅。
 ```
+
+### 2022/07/31
+```
+    Shoot for the moon, even if you miss it, you'll land among the stars.
+
+    奔赴月亮吧，即便错过，你也将置身于繁星之中。
+```
