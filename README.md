@@ -75,3 +75,10 @@
 
     奔赴月亮吧，即便错过，你也将置身于繁星之中。
 ```
+
+### 2022/08/01
+```
+    This is my homeland. If I don't fight for it, who will?
+
+    这是我的国土。我不为她而战斗，谁为呢?
+```
