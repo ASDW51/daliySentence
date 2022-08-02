@@ -82,3 +82,10 @@
 
     这是我的国土。我不为她而战斗，谁为呢?
 ```
+
+### 2022/08/02
+```
+    Life is not always a matter of holding good cards, but sometimes, playing a poor hand well.
+
+    人生不总在于握有一手好牌，有时也要打好一把烂牌。
+```
