@@ -89,3 +89,10 @@
 
     人生不总在于握有一手好牌，有时也要打好一把烂牌。
 ```
+
+### 2022/08/03
+```
+    Shoot for the moon; even if you miss, you'll land among the stars.
+
+    朝月亮出发，即便你错过了，也将置身于繁星之中。
+```
