@@ -96,3 +96,10 @@
 
     朝月亮出发，即便你错过了，也将置身于繁星之中。
 ```
+
+### 2022/08/04
+```
+    The deepest and heaviest love must grow up with the time.
+
+    最深最重的爱，须与时日共成长。
+```
