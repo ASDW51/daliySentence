@@ -117,3 +117,10 @@
 
     你天生与众不同，注定不会被淹没在人群中。
 ```
+
+### 2022/08/07
+```
+    Autumn carries more gold in its pocket than all the other seasons.
+
+    秋天的口袋里，比其他季节收藏着更多金黄色。
+```
