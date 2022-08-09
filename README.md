@@ -131,3 +131,10 @@
 
     宁可失败在你喜欢的事情上，也不要成功在你所憎恶的事情上。
 ```
+
+### 2022/08/09
+```
+    Many people will walk in and out of your life, but only true friends will leave footprints in your heart.
+
+    无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
+```
