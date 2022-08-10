@@ -138,3 +138,10 @@
 
     无数人走进和走出你的生活，但只有真正的朋友会在你的心里留下足迹。
 ```
+
+### 2022/08/10
+```
+    Praise is like sunlight to the human spirit; we cannot flower and grow without it.
+
+    对于人的精神来说，赞扬就像阳光一样，没有它我们便不能开花生长。
+```
