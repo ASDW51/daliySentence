@@ -2,10 +2,10 @@
 # For more information see: https://help.github.com/en/actions/language-and-framework-guides/using-python-with-github-actions#publishing-to-package-registries
 
 name: write
-on:
- push:
- schedule:
-     - cron: "0 0 * * *"
+on: 
+  push:
+   branches:
+    - dev
 
 jobs:
   deploy:
