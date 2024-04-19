@@ -68,6 +68,6 @@ daily_data = daily_response.text
 new_daily_data = json.loads(daily_data)
 text = f'当前时间：{time.strftime("%Y/%m/%d %H:%M:%S", time.localtime())}\n每日一句 {new_daily_data["title"]}\n{new_daily_data["content"]}\n{new_daily_data["note"]}'
 # print(text)
-robot_s(text)
-robot_ding(text)
+# robot_s(text)
+# robot_ding(text)
 write_readme(new_daily_data)
