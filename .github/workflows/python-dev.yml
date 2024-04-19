@@ -5,7 +5,7 @@ name: write
 on: 
   push:
    branches:
-    - dev
+    - main
   schedule:
      -
       cron: "0 0 * * *"
