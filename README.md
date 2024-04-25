@@ -187,3 +187,10 @@
 
     事实胜于雄辩。
 ```
+
+### 2024/04/25
+```
+    A friend without faults will never be found.
+
+    没有十全十美的朋友。
+```
