@@ -201,3 +201,10 @@
 
     不要以貌取人。
 ```
+
+### 2024/04/27
+```
+    Children are what the mothers are.
+
+    耳濡目染，言传身教。
+```
