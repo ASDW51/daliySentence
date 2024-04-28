@@ -208,3 +208,10 @@
 
     耳濡目染，言传身教。
 ```
+
+### 2024/04/28
+```
+    The honest man takes pains, and then enjoys pleasure.
+
+    正直的人先经历痛苦，然后享受欢乐。
+```
