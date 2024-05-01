@@ -229,3 +229,10 @@
 
     人人平等。
 ```
+
+### 2024/05/01
+```
+    Labor is the most reliable wealth.
+
+    劳动是最可靠的财富。
+```
