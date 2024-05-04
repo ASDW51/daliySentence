@@ -250,3 +250,10 @@
 
     树上掉下的苹果离树能有多远。
 ```
+
+### 2024/05/04
+```
+    Just hold to your dream and never give up. 
+
+    坚持你的梦想，永不放弃。
+```
