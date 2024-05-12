@@ -306,3 +306,10 @@
 
     人生苦短，所以每天不要带着遗憾醒来。
 ```
+
+### 2024/05/12
+```
+    A mother's arms are more comforting than anyone else's.
+
+    妈妈的怀抱是最舒服的。——黛安娜王妃
+```
