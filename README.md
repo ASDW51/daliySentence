@@ -313,3 +313,10 @@
 
     妈妈的怀抱是最舒服的。——黛安娜王妃
 ```
+
+### 2024/05/13
+```
+    Inside of every problem lies an opportunity.
+
+    每个问题里都藏着一个机会。
+```
