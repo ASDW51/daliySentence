@@ -320,3 +320,10 @@
 
     每个问题里都藏着一个机会。
 ```
+
+### 2024/05/14
+```
+    Mankind was born on Earth. It was never meant to die here.
+
+    人类生在地球， 但绝不应该在这里灭亡。——《星际穿越》
+```
