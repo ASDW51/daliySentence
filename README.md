@@ -327,3 +327,10 @@
 
     人类生在地球， 但绝不应该在这里灭亡。——《星际穿越》
 ```
+
+### 2024/05/15
+```
+    If you are ever in trouble, don't try to be brave, just run, just run away.
+
+    你若遇上麻烦，不要逞强，你就跑，远远跑开。
+```
