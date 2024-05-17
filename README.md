@@ -341,3 +341,10 @@
 
     只有爱可以穿越时空。
 ```
+
+### 2024/05/17
+```
+    Death is just a part of life, something we’re all destined to do.
+
+    死亡是生命的一部分，是我们注定要面对的一件事。
+```
