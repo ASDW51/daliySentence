@@ -348,3 +348,10 @@
 
     死亡是生命的一部分，是我们注定要面对的一件事。
 ```
+
+### 2024/05/18
+```
+    There are only the pursued, the pursuing, the busy and the tired.
+
+    世界上只有被追求者和追求者，忙碌者和疲惫者。　　
+```
