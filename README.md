@@ -418,3 +418,10 @@
 
     如果不尝试，你永远不会知道结果。
 ```
+
+### 2024/05/28
+```
+    Love is a game that two can play and both win.
+
+    爱是两个人玩的双赢游戏。
+```
