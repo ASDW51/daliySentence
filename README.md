@@ -446,3 +446,10 @@
 
     只有你自己可以掌控你的未来。
 ```
+
+### 2024/06/01
+```
+    Children see magic because they look for it.
+
+    孩子之所以能看到魔法，是因为他们在寻找。
+```
