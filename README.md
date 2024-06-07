@@ -488,3 +488,10 @@
 
     大胆点生活，其实你没有那么多观众。
 ```
+
+### 2024/06/07
+```
+    Succcessful, faster runs my horse in vernal breeze;I've seen within one day all flowers on the trees.
+
+    春风得意马蹄疾，一日看尽长安花。
+```
