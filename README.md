@@ -509,3 +509,10 @@
 
     记得在这杂乱的生活里每天带点笑意。
 ```
+
+### 2024/06/10
+```
+    When the Cang-lang's waters are clear,I can wash my hat-strings in them.
+
+    沧浪之水清兮，可以濯吾缨。
+```
