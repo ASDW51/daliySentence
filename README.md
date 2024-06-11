@@ -516,3 +516,10 @@
 
     沧浪之水清兮，可以濯吾缨。
 ```
+
+### 2024/06/11
+```
+    It is worthwhile to travel all over the world.
+
+    遍历山河，人间值得。
+```
