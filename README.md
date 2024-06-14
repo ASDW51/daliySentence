@@ -537,3 +537,10 @@
 
     与其凋零不如燃烧。
 ```
+
+### 2024/06/14
+```
+    No man is rich enough to buy back his own past.
+
+    没有人富有到可以赎回自己的过去。
+```
