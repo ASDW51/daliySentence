@@ -600,3 +600,10 @@
 
     总有人用心，总有人浪漫。
 ```
+
+### 2024/06/23
+```
+    The course of true love never did run smooth.
+
+    通向真爱的路从无坦途。——《仲夏夜之梦》
+```
