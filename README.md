@@ -614,3 +614,10 @@
 
     贪得无厌，终将一无所获。
 ```
+
+### 2024/06/25
+```
+    A little learning is a dangerous thing.
+
+    一知半解，危险至极。
+```
