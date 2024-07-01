@@ -656,3 +656,10 @@
 
     既来之，则安之。
 ```
+
+### 2024/07/01
+```
+    Whoever saves one life, saves the world entire.
+
+    当你挽救了一条生命，就等于挽救了全世界。
+```
