@@ -670,3 +670,10 @@
 
     成年人的生活里没有容易二字。
 ```
+
+### 2024/07/03
+```
+    You are braver than you believe.— Winnie the Pooh
+
+    你比你相信的更勇敢。 —《小熊维尼》
+```
