@@ -705,3 +705,10 @@
 
     男孩最好的朋友是他的母亲。
 ```
+
+### 2024/07/08
+```
+    To laugh at yourself is to love yourself.
+
+    学会自嘲也是爱自己的一种表现。
+```
