@@ -761,3 +761,10 @@
 
     上帝为我作证，我不会再让自己挨饿了。——《乱世佳人》
 ```
+
+### 2024/07/16
+```
+    I have always depended on the kindness of strangers.
+
+    我总是非常依赖陌生人的仁慈。——《欲望号街车》
+```
