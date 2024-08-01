@@ -873,3 +873,10 @@
 
     生命短暂，你应该享受快乐 。
 ```
+
+### 2024/08/01
+```
+    The journey of a thousand miles begins with one step. — Lao Tzu
+
+    千里之行，始于足下。 — 老子
+```
