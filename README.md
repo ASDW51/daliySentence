@@ -880,3 +880,10 @@
 
     千里之行，始于足下。 — 老子
 ```
+
+### 2024/08/02
+```
+    You had me at hello; it was love at first sight. — Friends
+
+    你一开口我就沦陷了；那是爱情的初见。—《老友记》
+```
