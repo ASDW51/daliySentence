@@ -887,3 +887,10 @@
 
     你一开口我就沦陷了；那是爱情的初见。—《老友记》
 ```
+
+### 2024/08/03
+```
+    The truth is out there, and it's waiting. — The X-Files 
+
+    真相在外面，它在等待。 —《X档案》
+```
