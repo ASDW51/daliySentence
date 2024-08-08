@@ -922,3 +922,10 @@
 
     秋天是第二个春天，每一片叶子都是一朵花。— 阿尔贝·加缪
 ```
+
+### 2024/08/08
+```
+    In the end, we only regret the chances we didn't take. — Lewis Carroll
+
+    最终，我们只会后悔没有抓住的机会。 — 刘易斯·卡罗尔
+```
