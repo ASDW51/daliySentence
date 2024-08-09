@@ -929,3 +929,10 @@
 
     最终，我们只会后悔没有抓住的机会。 — 刘易斯·卡罗尔
 ```
+
+### 2024/08/09
+```
+    Everything has beauty, but not everyone sees it. — Confucius
+
+    万物皆有美，只是并非所有人都能看到。 — 孔子
+```
