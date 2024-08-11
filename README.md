@@ -943,3 +943,10 @@
 
     爱是唯一的现实。— 詹姆斯·马修·巴里，《彼得潘》
 ```
+
+### 2024/08/11
+```
+     Do what you can, with what you have, where you are. — Theodore Roosevelt
+
+    尽力而为，随遇而安。 — 西奥多·罗斯福
+```
