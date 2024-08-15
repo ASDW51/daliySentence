@@ -971,3 +971,10 @@
 
     成功不是幸福的钥匙。幸福是成功的钥匙。 — 阿尔伯特·施韦泽
 ```
+
+### 2024/08/15
+```
+    Love is passion, obsession, someone you can't live without.— Meet Joe Black
+
+    爱是激情，痴迷，是你无法离开的人。—《遇见乔·布莱克》
+```
