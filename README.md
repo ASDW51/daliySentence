@@ -978,3 +978,10 @@
 
     爱是激情，痴迷，是你无法离开的人。—《遇见乔·布莱克》
 ```
+
+### 2024/08/16
+```
+    To love and be loved is to feel the sun from both sides. — David Viscott
+
+    爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
+```
