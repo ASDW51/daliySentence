@@ -985,3 +985,10 @@
 
     爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
 ```
+
+### 2024/08/17
+```
+    They call it a Royale with cheese.— Pulp Fiction 
+
+    他们称之为奶酪皇堡。—《低俗小说》
+```
