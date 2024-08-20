@@ -1006,3 +1006,10 @@
 
     艰难的道路常常通向美丽的目的地。
 ```
+
+### 2024/08/20
+```
+    The best revenge is massive success. — Frank Sinatra
+
+    最好的报复是巨大的成功。 — 弗兰克·辛纳特拉
+```
