@@ -1013,3 +1013,10 @@
 
     最好的报复是巨大的成功。 — 弗兰克·辛纳特拉
 ```
+
+### 2024/08/21
+```
+    You complete me, and I will always cherish that.— Jerry Maguire
+
+    你使我完整，我将永远珍惜。 —《甜心先生》
+```
