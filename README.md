@@ -1048,3 +1048,10 @@
 
     我想相信比我自己更伟大的东西。 —《X档案》
 ```
+
+### 2024/08/26
+```
+    This is the way we must follow, no turning back. — The Mandalorian
+
+    这就是我们必须遵循的道路，不可回头。—《曼达洛人》
+```
