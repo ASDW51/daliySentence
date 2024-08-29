@@ -1069,3 +1069,10 @@
 
     不要等待。时机永远不会完全合适。 — 拿破仑·希尔
 ```
+
+### 2024/08/29
+```
+    You only live once, but if you do it right, once is enough. — Mae West
+
+    你只活一次，但如果你做得好，一次足够。 — 梅·韦斯特
+```
