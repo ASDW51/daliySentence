@@ -1076,3 +1076,10 @@
 
     你只活一次，但如果你做得好，一次足够。 — 梅·韦斯特
 ```
+
+### 2024/08/30
+```
+    The only limit to our realization of tomorrow is our doubts today. — The West Wing
+
+    对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
+```
