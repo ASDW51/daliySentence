@@ -1090,3 +1090,10 @@
 
     把伤口变成智慧。 — 奥普拉·温弗瑞
 ```
+
+### 2024/09/01
+```
+     Do not dwell in the past, do not dream of the future.
+
+    不要沉湎于过去，不要幻想未来。
+```
