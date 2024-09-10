@@ -1153,3 +1153,10 @@
 
     黑夜幽暗，充满恐惧。
 ```
+
+### 2024/09/10
+```
+    Teaching is the one profession that creates all other professions.
+
+    教育是一切职业之母。
+```
