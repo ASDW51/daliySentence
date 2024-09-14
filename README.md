@@ -1181,3 +1181,10 @@
 
     我本可以成为强者。
 ```
+
+### 2024/09/14
+```
+    What lies behind us and what lies before us are tiny matters.
+
+    我们背后和面前的事情都是小事。
+```
