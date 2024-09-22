@@ -1237,3 +1237,10 @@
 
     你必须成为你希望在世界上看到的改变。
 ```
+
+### 2024/09/22
+```
+    All animals are equal, but some are more equal.
+
+    所有动物生而平等，但有些更平等。
+```
