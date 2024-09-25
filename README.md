@@ -1258,3 +1258,10 @@
 
     我只需得一次肠胃炎就能达到目标体重。—《穿普拉达的女王》
 ```
+
+### 2024/09/25
+```
+    All the world's a stage, and all the men and women merely players.
+
+    世界是个大舞台，男人女人皆为演员。
+```
