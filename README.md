@@ -1279,3 +1279,10 @@
 
     棒球里不许哭泣！
 ```
+
+### 2024/09/28
+```
+    Failure is simply the opportunity to begin again, this time more intelligently.
+
+    失败只是重新开始的机会，这次更加聪明。
+```
