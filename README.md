@@ -1349,3 +1349,10 @@
 
     每天做一件让你害怕的事。
 ```
+
+### 2024/10/08
+```
+    The only source of knowledge is experience.
+
+    知识的唯一来源是经验。
+```
