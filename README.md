@@ -1412,3 +1412,10 @@
 
     我们就是我们反复做的事情。
 ```
+
+### 2024/10/17
+```
+    The only impossible journey is the one you never begin.
+
+    唯一不可能的旅程是你从未开始的旅程。
+```
