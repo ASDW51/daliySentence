@@ -1482,3 +1482,10 @@
 
     过去的损失和失败经验，应是你采取行动，而非不采取行动的理由。
 ```
+
+### 2024/10/27
+```
+    Idealism increases in direct proportion to one’s distance from the problem.
+
+    一个人离问题愈远就愈理想主义。
+```
