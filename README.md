@@ -1517,3 +1517,10 @@
 
     这是万圣节；一年中我们可以成为任何人的夜晚。
 ```
+
+### 2024/11/01
+```
+    More dreams are lost to self-doubt than to failure.
+
+    因自我怀疑而失去的梦想比因失败而失去的更多。
+```
