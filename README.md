@@ -1594,3 +1594,10 @@
 
     你的生活就是你的信息。
 ```
+
+### 2024/11/12
+```
+    Time flies over us, but leaves its shadow behind.
+
+    时间飞逝，但它的影子留下了。
+```
