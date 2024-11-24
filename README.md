@@ -1678,3 +1678,10 @@
 
     不要梦想你的生活，而要实现你的梦想。
 ```
+
+### 2024/11/24
+```
+    You don't have to be great to start, but you have to start to be great.
+
+    你不需要伟大才能开始，但你必须开始才能伟大。
+```
