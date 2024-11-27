@@ -1699,3 +1699,10 @@
 
     勇气是知道什么不该害怕。
 ```
+
+### 2024/11/27
+```
+    We may encounter many defeats but we must not be defeated.
+
+    我们可能会遇到许多失败，但我们不能被打败。
+```
