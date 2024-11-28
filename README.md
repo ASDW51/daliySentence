@@ -1706,3 +1706,10 @@
 
     我们可能会遇到许多失败，但我们不能被打败。
 ```
+
+### 2024/11/28
+```
+    Thanksgiving is a time of togetherness and gratitude.
+
+    感恩节是团聚与感恩的时刻。
+```
