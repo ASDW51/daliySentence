@@ -1720,3 +1720,10 @@
 
     你今天所做的一切，可以改善你所有的明天。
 ```
+
+### 2024/11/30
+```
+    No one can make you feel inferior without your consent.
+
+    没有人能在取得你的同意前让你自己感到自卑。
+```
