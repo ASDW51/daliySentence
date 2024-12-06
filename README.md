@@ -1762,3 +1762,10 @@
 
     快乐是最简单的感恩形式。
 ```
+
+### 2024/12/06
+```
+    Opportunities don't happen. You create them.
+
+    机会不会发生，是你创造了它们。
+```
