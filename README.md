@@ -1769,3 +1769,10 @@
 
     机会不会发生，是你创造了它们。
 ```
+
+### 2024/12/07
+```
+    Perseverance is not a long race; it is many short races one after the other.
+
+    坚持不是一场长跑，而是一次次短跑。
+```
