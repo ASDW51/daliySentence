@@ -1776,3 +1776,10 @@
 
     坚持不是一场长跑，而是一次次短跑。
 ```
+
+### 2024/12/08
+```
+    Simplicity is the ultimate sophistication.
+
+    简单是终极的智慧。
+```
