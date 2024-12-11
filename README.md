@@ -1797,3 +1797,10 @@
 
     智慧始于好奇。
 ```
+
+### 2024/12/11
+```
+    It is not the years in your life but the life in your years.
+
+    不是生命中的岁月，而是岁月中的生命。
+```
