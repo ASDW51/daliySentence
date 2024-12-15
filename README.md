@@ -1825,3 +1825,10 @@
 
     只有停止尝试时，你才会失败。
 ```
+
+### 2024/12/15
+```
+    The harder the conflict, the greater the triumph.
+
+    冲突越难，胜利越大。
+```
