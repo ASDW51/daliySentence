@@ -1958,3 +1958,10 @@
 
     一束阳光足以驱散许多阴影。
 ```
+
+### 2025/01/03
+```
+    The only thing constant in life is change.
+
+    生活中唯一不变的就是变化。
+```
