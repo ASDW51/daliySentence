@@ -1965,3 +1965,10 @@
 
     生活中唯一不变的就是变化。
 ```
+
+### 2025/01/04
+```
+    You are never too old to set another goal or to dream a new dream.
+
+    无论多大年龄，你都可以重新设定目标或做新的梦。
+```
