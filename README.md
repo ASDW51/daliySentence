@@ -1972,3 +1972,10 @@
 
     无论多大年龄，你都可以重新设定目标或做新的梦。
 ```
+
+### 2025/01/05
+```
+    Your life does not get better by chance, it gets better by change.
+
+    你的生活不会因偶然变好，而是因改变变好。
+```
