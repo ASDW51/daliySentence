@@ -1979,3 +1979,10 @@
 
     你的生活不会因偶然变好，而是因改变变好。
 ```
+
+### 2025/01/06
+```
+    Doubt kills more dreams than failure ever will.
+
+    怀疑比失败扼杀更多梦想。
+```
