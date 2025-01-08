@@ -1993,3 +1993,10 @@
 
     寒冬之中，温暖藏在一碗粥里。
 ```
+
+### 2025/01/08
+```
+    Turn your face to the sun and the shadows fall behind you.
+
+    向阳而立，阴影自会落在身后。
+```
