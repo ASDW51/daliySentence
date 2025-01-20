@@ -2077,3 +2077,10 @@
 
     成功是对自己和实现方式感到满意。
 ```
+
+### 2025/01/20
+```
+    Your attitude determines your altitude.
+
+    你的态度决定了你的高度。
+```
