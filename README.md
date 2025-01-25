@@ -2112,3 +2112,10 @@
 
     别被问题推着走，要被梦想引导着前进。
 ```
+
+### 2025/01/25
+```
+    The heavier with great power comes great responsibility.
+
+    能力越大，责任越重。
+```
