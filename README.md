@@ -2126,3 +2126,10 @@
 
     你留下，或者我跟你走。——《海角七号》
 ```
+
+### 2025/01/27
+```
+    Hard work beats talent when talent fails to work hard.
+
+    当天才不努力时，努力可以击倒天才。
+```
