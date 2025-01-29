@@ -2140,3 +2140,10 @@
 
     旧年怀感恩而去，新年携希望而来。
 ```
+
+### 2025/01/29
+```
+    The joy of reunion makes the Spring Festival the happiest time of the year.
+
+    团聚的喜悦让春节成为一年中最幸福的时光。
+```
