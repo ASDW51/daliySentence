@@ -2154,3 +2154,10 @@
 
     阅读之于心灵，犹如运动之于身体。
 ```
+
+### 2025/01/31
+```
+    The way to get started is to quit talking and begin doing. 
+
+    一切的起头就是不要只会说而是开始做。
+```
