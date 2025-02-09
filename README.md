@@ -2217,3 +2217,10 @@
 
     时光飞逝，但我心依旧。
 ```
+
+### 2025/02/09
+```
+    Celebrate the new year together, welcoming and bidding farewell within one night.
+
+    共欢新故岁，迎送一宵中。——李世民《守岁》
+```
