@@ -2399,3 +2399,10 @@
 
     不要等待机会，创造机会。
 ```
+
+### 2025/03/07
+```
+    Greatness comes from small, consistent efforts, not impulse.
+
+    伟大源于微小坚持，而非冲动。
+```
