@@ -2469,3 +2469,10 @@
 
     谨慎和勤奋，带来好运气。
 ```
+
+### 2025/03/17
+```
+    The key to success is to focus on goals, not obstacles.
+
+    成功的关键是专注于目标，而非障碍。
+```
