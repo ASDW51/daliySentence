@@ -2483,3 +2483,10 @@
 
     不要限制你的挑战，挑战你的极限。
 ```
+
+### 2025/03/19
+```
+    The only place where success comes before work is in the dictionary.
+
+    只有在字典里，成功才排在工作之前。
+```
