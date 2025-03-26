@@ -2532,3 +2532,10 @@
 
     你可以做任何事，但不是所有事。
 ```
+
+### 2025/03/26
+```
+    The only thing we have to fear is fear itself.
+
+    我们唯一需要害怕的是害怕本身。
+```
