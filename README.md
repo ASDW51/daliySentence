@@ -2602,3 +2602,10 @@
 
     清明节邀请我们以静思与敬意祭奠祖先。
 ```
+
+### 2025/04/05
+```
+    If you want to achieve greatness, stop asking for permission.
+
+    如果你想获得伟大，别再请求许可。
+```
