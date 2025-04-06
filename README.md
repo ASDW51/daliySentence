@@ -2609,3 +2609,10 @@
 
     如果你想获得伟大，别再请求许可。
 ```
+
+### 2025/04/06
+```
+    Success is not in never falling, but in rising every time we fall.
+
+    成功不是从不跌倒，而是每次跌倒后都能重新站起来。
+```
