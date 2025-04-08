@@ -2623,3 +2623,10 @@
 
     笑声能重燃疲惫的心灵，修复破碎的情感。
 ```
+
+### 2025/04/08
+```
+    Think less of gain and loss as long as you go all out and have a clear mind.
+
+    得失成败置之度外，只求竭尽所能，无愧于心。 --傅雷
+```
