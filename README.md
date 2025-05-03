@@ -2798,3 +2798,10 @@
 
     汗水是成功的润滑剂。
 ```
+
+### 2025/05/03
+```
+    Do your thing and don't care if they like it.
+
+    做你的事，别在意别人是否喜欢。
+```
