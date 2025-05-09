@@ -2840,3 +2840,10 @@
 
     你今天唯一能做的事就是微笑。
 ```
+
+### 2025/05/09
+```
+    You can, you should, and if you’re brave, you will.
+
+    你可以，你应该，若你勇敢，你会做到。
+```
