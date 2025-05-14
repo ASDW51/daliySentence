@@ -2875,3 +2875,10 @@
 
     目的地不是地方，而是一种新视角。
 ```
+
+### 2025/05/14
+```
+    Some look for a beautiful place, others make it beautiful.
+
+    有人寻找美丽之地，有人创造美丽之地。
+```
