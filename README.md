@@ -2882,3 +2882,10 @@
 
     有人寻找美丽之地，有人创造美丽之地。
 ```
+
+### 2025/05/15
+```
+    How you deal with failure determines your success.
+
+    你如何处理失败决定你的成功。
+```
