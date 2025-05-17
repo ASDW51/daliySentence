@@ -2896,3 +2896,10 @@
 
     我找到了10,000种行不通的方法。
 ```
+
+### 2025/05/17
+```
+    Death is just a part of life, something we’re all destined to do.
+
+    死亡是生命的一部分，是我们注定要面对的一件事。
+```
