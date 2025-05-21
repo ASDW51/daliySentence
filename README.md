@@ -2924,3 +2924,10 @@
 
     你用拥有的东西创造生活。
 ```
+
+### 2025/05/21
+```
+    There are years that ask questions and years that answer.
+
+    有提问的年份，也有回答的年份。
+```
