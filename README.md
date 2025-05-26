@@ -2959,3 +2959,10 @@
 
     罗马不是一天造成的。
 ```
+
+### 2025/05/26
+```
+    Wishing takes as much energy as planning does.
+
+    许愿和计划需要同样的能量。
+```
