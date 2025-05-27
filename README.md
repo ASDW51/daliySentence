@@ -2966,3 +2966,10 @@
 
     许愿和计划需要同样的能量。
 ```
+
+### 2025/05/27
+```
+    You cannot change what you are, only what you do.
+
+    你无法改变本质，只能改变行为。
+```
