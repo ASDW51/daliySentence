@@ -2987,3 +2987,10 @@
 
     成功的起点是你决定成功的那一刻。
 ```
+
+### 2025/05/30
+```
+    No one is useless who lightens another’s burden.
+
+    减轻他人负担的人绝非无用。
+```
