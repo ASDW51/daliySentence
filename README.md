@@ -3036,3 +3036,10 @@
 
     你天生适合奋斗，但值得被爱。
 ```
+
+### 2025/06/06
+```
+    Whatever the mind can conceive and believe, it can achieve.
+
+    心智能想到并相信的，就能实现。
+```
