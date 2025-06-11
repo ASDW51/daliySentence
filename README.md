@@ -3071,3 +3071,10 @@
 
     你有勇气要求，生活就会给予。
 ```
+
+### 2025/06/11
+```
+    Strive not to be a success, but rather to be of value.
+
+    不要追求成功，而要追求有价值。
+```
