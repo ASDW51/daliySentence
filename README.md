@@ -3078,3 +3078,10 @@
 
     不要追求成功，而要追求有价值。
 ```
+
+### 2025/06/12
+```
+    Real wealth is when your kids hug you even when you have nothing.
+
+    真正的富有，是孩子在你一无所有时依然拥抱你。
+```
