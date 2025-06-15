@@ -3099,3 +3099,10 @@
 
     没有人富有到可以赎回自己的过去。
 ```
+
+### 2025/06/15
+```
+    Follow your heart, but take your brain with you.
+
+    跟随自己的心，但要保持清醒的头脑。
+```
