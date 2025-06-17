@@ -3113,3 +3113,10 @@
 
     人生重在给予，而非索取。
 ```
+
+### 2025/06/17
+```
+    Education costs money. But then so does ignorance.
+
+    教育需要花钱，但无知也需要。
+```
