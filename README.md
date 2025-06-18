@@ -3120,3 +3120,10 @@
 
     教育需要花钱，但无知也需要。
 ```
+
+### 2025/06/18
+```
+    When I let go of what I am, I become what I might be.
+
+    我放下现在的自己，我才能成为可能的自己。
+```
