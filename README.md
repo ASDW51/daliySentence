@@ -3134,3 +3134,10 @@
 
     幸福不是现成的。它来自你的行动。
 ```
+
+### 2025/06/20
+```
+    Too many of us are not living our dreams because we are living our fears.
+
+    我们太多人没有实现梦想，因为我们活在恐惧中。
+```
