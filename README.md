@@ -3169,3 +3169,10 @@
 
     得不到想要的，有时反而是幸运。
 ```
+
+### 2025/06/25
+```
+    The only way to avoid criticism is to do nothing at all.
+
+    避免批评的唯一方法就是什么都不做。
+```
