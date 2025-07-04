@@ -3232,3 +3232,10 @@
 
     唯一真正的智慧，是知道自己一无所知。
 ```
+
+### 2025/07/04
+```
+    Silence is the most perfect expression of scorn.
+
+    沉默是轻蔑最完美的表达。
+```
