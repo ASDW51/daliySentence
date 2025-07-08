@@ -3260,3 +3260,10 @@
 
     男孩最好的朋友是他的母亲。
 ```
+
+### 2025/07/08
+```
+    All advantages aren't in running quickly, but in getting a head start.​
+
+    优势不在于跑得快，而在于起身早。
+```
