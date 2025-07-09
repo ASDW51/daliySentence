@@ -3267,3 +3267,10 @@
 
     优势不在于跑得快，而在于起身早。
 ```
+
+### 2025/07/09
+```
+    Don't focus on why it can't work. Trust the reason why it can.​
+
+    忘掉所有"不可能"的借口，坚持那一个"可能"的理由。
+```
