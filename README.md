@@ -3288,3 +3288,10 @@
 
     一人即某人的全世界。
 ```
+
+### 2025/07/12
+```
+    Talent without working hard is nothing.
+
+    没有努力，天份不代表什么。
+```
