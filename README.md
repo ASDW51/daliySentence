@@ -3351,3 +3351,10 @@
 
     妈妈说，‘做傻事的才是傻瓜。'——《阿甘正传，1994》
 ```
+
+### 2025/07/21
+```
+    Strength knows conflict; weakness is born vanquished.
+
+    强者才懂斗争，弱者生来被征服。
+```
