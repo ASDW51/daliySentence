@@ -3358,3 +3358,10 @@
 
     强者才懂斗争，弱者生来被征服。
 ```
+
+### 2025/07/22
+```
+    The secret of success is constancy to purpose.
+
+    成功的秘诀在于忠于目标。
+```
