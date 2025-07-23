@@ -3365,3 +3365,10 @@
 
     成功的秘诀在于忠于目标。
 ```
+
+### 2025/07/23
+```
+    There are no shortcuts to any place worth going.
+
+    通往值得去的地方，从无捷径。
+```
