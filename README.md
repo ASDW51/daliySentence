@@ -3372,3 +3372,10 @@
 
     通往值得去的地方，从无捷径。
 ```
+
+### 2025/07/24
+```
+    Perfection is not attainable, but chasing it leads to excellence.
+
+    完美虽不可达，追求它却能成就卓越。
+```
