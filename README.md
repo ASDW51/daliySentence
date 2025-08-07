@@ -3470,3 +3470,10 @@
 
     一燕不成夏（一花独放不是春）。
 ```
+
+### 2025/08/07
+```
+    Courage is not the absence of fear, but the will to guard what we cherish.
+
+    勇气非无畏，而是守护所爱的意志。
+```
