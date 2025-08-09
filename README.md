@@ -3484,3 +3484,10 @@
 
     勤劳之人不受穷。
 ```
+
+### 2025/08/09
+```
+    Everything has beauty, but not everyone sees it. — Confucius
+
+    万物皆有美，只是并非所有人都能看到。 — 孔子
+```
