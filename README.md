@@ -3533,3 +3533,10 @@
 
     美德常青。
 ```
+
+### 2025/08/16
+```
+    To love and be loved is to feel the sun from both sides. — David Viscott
+
+    爱与被爱是感受到两边的阳光。 — 大卫·维斯科特
+```
