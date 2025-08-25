@@ -3596,3 +3596,10 @@
 
     寒冬将至，我们必须做好准备。—《权力的游戏》
 ```
+
+### 2025/08/25
+```
+    I want to believe in something greater than myself.— The X-Files
+
+    我想相信比我自己更伟大的东西。 —《X档案》
+```
