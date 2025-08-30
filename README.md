@@ -3631,3 +3631,10 @@
 
     鹊桥相会，一年一度，却是一生一世。
 ```
+
+### 2025/08/30
+```
+    The only limit to our realization of tomorrow is our doubts today. — The West Wing
+
+    对明天实现的唯一限制是我们今天的怀疑。 —《白宫风云》
+```
