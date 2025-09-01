@@ -3645,3 +3645,10 @@
 
     把伤口变成智慧。 — 奥普拉·温弗瑞
 ```
+
+### 2025/09/01
+```
+    Books are passports you never need to renew.
+
+    书籍是永不过期的护照。
+```
