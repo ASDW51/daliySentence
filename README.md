@@ -3673,3 +3673,10 @@
 
     每天夸自己一句。
 ```
+
+### 2025/09/05
+```
+    In the age of AI, curiosity is still our superpower.  
+
+    在AI时代，好奇心仍是我们的超能力。
+```
