@@ -3785,3 +3785,10 @@
 
     不是所有徘徊的人都迷失了。
 ```
+
+### 2025/09/21
+```
+    You must be the change you wish to see in the world.
+
+    你必须成为你希望在世界上看到的改变。
+```
