@@ -3925,3 +3925,10 @@
 
     改变始于内在。
 ```
+
+### 2025/10/11
+```
+    Cherish the moments with family, for they are fleeting.
+
+    珍惜与家人在一起的时光，因为它们稍纵即逝。
+```
