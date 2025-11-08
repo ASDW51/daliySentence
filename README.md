@@ -4121,3 +4121,10 @@
 
     冬日暖身养心，静候春来。
 ```
+
+### 2025/11/08
+```
+    You must do the things you think you cannot do.
+
+    你必须做你认为自己做不到的事情。
+```
