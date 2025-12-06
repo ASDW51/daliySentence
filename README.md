@@ -4317,3 +4317,10 @@
 
     冬天总是悄然来临，而寒意却骤然而至。
 ```
+
+### 2025/12/06
+```
+    Those who walk in the cold wind carry within them an unquenchable flame.
+
+    在寒风中行走的人，心中自有一团不灭的火。
+```
