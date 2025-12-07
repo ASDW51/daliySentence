@@ -4324,3 +4324,10 @@
 
     在寒风中行走的人，心中自有一团不灭的火。
 ```
+
+### 2025/12/07
+```
+    Simmering snow by the hearth, cooking up a slower pace of life.
+
+    围炉煮雪，烹煮一段慢下来的时光。
+```
