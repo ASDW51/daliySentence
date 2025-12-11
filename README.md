@@ -4352,3 +4352,10 @@
 
     不必追光，你本就能发光。
 ```
+
+### 2025/12/11
+```
+    Even if ordinary and clumsy, not giving up is itself a shining point.
+
+    即使平凡笨拙，不放弃本身就是闪光点。
+```
