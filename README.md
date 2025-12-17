@@ -4394,3 +4394,10 @@
 
     爱是看见，也是空间。
 ```
+
+### 2025/12/17
+```
+    Growing up is a gentle act of self-rebellion.
+
+    成长，是一场温柔的自我叛变。
+```
