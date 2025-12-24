@@ -4443,3 +4443,10 @@
 
     琐碎日常，亦有微光。
 ```
+
+### 2025/12/24
+```
+    Those who understand will understand; the rest is just scenery.
+
+    懂的人自会懂，其余皆是风景。
+```
