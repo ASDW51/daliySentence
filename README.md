@@ -4534,3 +4534,10 @@
 
     冷至深处，暖意正在土壤里苏醒。
 ```
+
+### 2026/01/06
+```
+    Life is not about choices, but about passion.
+
+    生活的真谛不在于选择，而在于热爱。
+```
