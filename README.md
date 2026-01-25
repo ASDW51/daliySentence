@@ -4667,3 +4667,10 @@
 
     希望是前行的光，感恩是心中的锚。
 ```
+
+### 2026/01/25
+```
+    True freedom is choosing the weight of your soul.
+
+    真正的自由，是为灵魂选择它的重量。
+```
