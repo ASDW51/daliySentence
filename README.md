@@ -4674,3 +4674,10 @@
 
     真正的自由，是为灵魂选择它的重量。
 ```
+
+### 2026/01/26
+```
+    Settling oneself is the only thing that matters.
+
+    安顿好自己，是唯一的要事。
+```
