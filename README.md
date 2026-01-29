@@ -4695,3 +4695,10 @@
 
     水净沙明，心清事晰。
 ```
+
+### 2026/01/29
+```
+    Show seven parts to others, keep three parts to yourself.
+
+    七分示人，三分藏己。
+```
