@@ -4800,3 +4800,10 @@
 
     呵出的白气，在空中写下短暂的诗。
 ```
+
+### 2026/02/13
+```
+    Distant mountains cloak themselves in snow, awaiting spring's letter.
+
+    远山裹着雪袍，静候一封春的来信。
+```
