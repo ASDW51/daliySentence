@@ -5136,3 +5136,10 @@
 
     黎明不以喧嚣降临，而以静默的光绽放。
 ```
+
+### 2026/04/02
+```
+    Roots grow deep in the dark, so the tree can trust the light.
+
+    根在黑暗中深扎，树才能信任光明。
+```
