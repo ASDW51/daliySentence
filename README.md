@@ -5528,3 +5528,10 @@
 
     风捎来更柔软、更青翠的气息。
 ```
+
+### 2026/05/28
+```
+    By the pond, kids splash water with bare feet.
+
+    池塘边，孩子们光着脚丫踩水花。
+```
