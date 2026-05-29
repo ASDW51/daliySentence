@@ -5535,3 +5535,10 @@
 
     池塘边，孩子们光着脚丫踩水花。
 ```
+
+### 2026/05/29
+```
+    Gardenias bloom, turning the yard white with scent.
+
+    栀子花开了，整个院子都是白色的香气。
+```
