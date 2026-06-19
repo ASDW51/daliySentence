@@ -5682,3 +5682,10 @@
 
     一个微笑，可以点燃另一颗心。
 ```
+
+### 2026/06/19
+```
+    Reed leaves wrap rice scent, and also a thousand years of longing.
+
+    粽叶裹着米香，也裹着千年的想念。
+```
