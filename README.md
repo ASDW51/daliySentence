@@ -5710,3 +5710,10 @@
 
     大海的宽广，在于接纳无数江河的平凡。
 ```
+
+### 2026/06/23
+```
+    You needn't be born radiant, but you can keep shining.
+
+    你不必天生闪耀，但可以持续发光。
+```
