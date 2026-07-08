@@ -5815,3 +5815,10 @@
 
     别自断后路，广阔人脉网提供前进资源。
 ```
+
+### 2026/07/08
+```
+    All advantages aren't in running quickly, but in getting a head start.​
+
+    优势不在于跑得快，而在于起身早。
+```
