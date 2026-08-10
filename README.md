@@ -6046,3 +6046,10 @@
 
     再短的告别，也会留下长长的影子。
 ```
+
+### 2026/08/10
+```
+    Love looks not with the eyes, but with the mind.
+
+    爱情不用眼睛看，而用心灵看。
+```
