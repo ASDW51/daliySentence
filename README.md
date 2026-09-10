@@ -6263,3 +6263,10 @@
 
     心保持好奇，书就会一直打开。
 ```
+
+### 2026/09/10
+```
+    A good teacher plants questions that keep growing.
+
+    好老师种下的，是不断生长的问题。
+```
