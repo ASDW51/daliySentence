@@ -6319,3 +6319,10 @@
 
     桌上的热面包，闻起来像家。
 ```
+
+### 2026/09/18
+```
+    We speak much less, yet we understand much more.
+
+    我们说得更少，却懂得更多。
+```
