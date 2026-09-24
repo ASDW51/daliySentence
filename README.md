@@ -6361,3 +6361,10 @@
 
     昼夜等长，平静而清澈。
 ```
+
+### 2026/09/24
+```
+    Write one short letter to someone you miss.
+
+    给想念的人，写一封短短的信。
+```
