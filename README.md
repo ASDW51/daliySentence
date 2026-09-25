@@ -6368,3 +6368,10 @@
 
     给想念的人，写一封短短的信。
 ```
+
+### 2026/09/25
+```
+    The full moon brings distant hearts back home.
+
+    圆月把远方的心，带回家里。
+```
