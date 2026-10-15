@@ -5,7 +5,7 @@
 数据来自 [金山词霸 · 每日一句](http://open.iciba.com/dsapi/) · 归档正文在 [`sentences/`](sentences/README.md)
 
 <!-- STATS:START -->
-> **累计 1549 条** ｜ 覆盖 **52 个月**（2022/07 – 2026/10） ｜ 每月 1 号自动补齐上月
+> **累计 1750 条** ｜ 覆盖 **58 个月**（2022/01 – 2026/10） ｜ 每月 1 号自动补齐上月
 <!-- STATS:END -->
 
 ## ✨ 最新一句
@@ -31,8 +31,8 @@
 | **2025** | [01](sentences/2025/01.md) · [02](sentences/2025/02.md) · [03](sentences/2025/03.md) · [04](sentences/2025/04.md) · [05](sentences/2025/05.md) · [06](sentences/2025/06.md) · [07](sentences/2025/07.md) · [08](sentences/2025/08.md) · [09](sentences/2025/09.md) · [10](sentences/2025/10.md) · [11](sentences/2025/11.md) · [12](sentences/2025/12.md) | 365 |
 | **2024** | [01](sentences/2024/01.md) · [02](sentences/2024/02.md) · [03](sentences/2024/03.md) · [04](sentences/2024/04.md) · [05](sentences/2024/05.md) · [06](sentences/2024/06.md) · [07](sentences/2024/07.md) · [08](sentences/2024/08.md) · [09](sentences/2024/09.md) · [10](sentences/2024/10.md) · [11](sentences/2024/11.md) · [12](sentences/2024/12.md) | 366 |
 | **2023** | [01](sentences/2023/01.md) · [02](sentences/2023/02.md) · [03](sentences/2023/03.md) · [04](sentences/2023/04.md) · [05](sentences/2023/05.md) · [06](sentences/2023/06.md) · [07](sentences/2023/07.md) · [08](sentences/2023/08.md) · [09](sentences/2023/09.md) · [10](sentences/2023/10.md) · [11](sentences/2023/11.md) · [12](sentences/2023/12.md) | 365 |
-| **2022** | [07](sentences/2022/07.md) · [08](sentences/2022/08.md) · [09](sentences/2022/09.md) · [10](sentences/2022/10.md) · [11](sentences/2022/11.md) · [12](sentences/2022/12.md) | 164 |
-| **合计** | 52 个月 | **1549** |
+| **2022** | [01](sentences/2022/01.md) · [02](sentences/2022/02.md) · [03](sentences/2022/03.md) · [04](sentences/2022/04.md) · [05](sentences/2022/05.md) · [06](sentences/2022/06.md) · [07](sentences/2022/07.md) · [08](sentences/2022/08.md) · [09](sentences/2022/09.md) · [10](sentences/2022/10.md) · [11](sentences/2022/11.md) · [12](sentences/2022/12.md) | 365 |
+| **合计** | 58 个月 | **1750** |
 <!-- ARCHIVE:END -->
 
 ## 📂 目录结构
