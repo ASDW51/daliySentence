@@ -6508,3 +6508,10 @@
 
     雾漫过山丘，像一首舒缓的歌。
 ```
+
+### 2026/10/15
+```
+    Choose the harder right instead of the easier wrong.
+
+    选择更难的正确，而非更容易的错误。
+```
