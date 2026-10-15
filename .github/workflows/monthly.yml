@@ -1,0 +1,87 @@
+name: monthly-sentence
+
+# 触发入口只有两个，刻意不监听 push：
+#   1. schedule          —— 每月 1 号 00:00 UTC（= 北京时间 08:00），抓取「上个月」整月数据
+#   2. workflow_dispatch —— 手动触发，可填 from/to 回补任意区间
+#
+# 不监听 push，是为了避免「定时跑一次 + 自己 commit 造成的 push 再跑一次」在一天内重复执行；
+# 加上脚本按日期覆盖写入，重复运行不会产生重复数据。详见 README。
+on:
+  schedule:
+    - cron: "0 0 1 * *"
+  workflow_dispatch:
+    inputs:
+      from:
+        description: "回补起始日期 YYYY-MM-DD（留空 = 从归档最后一条的次日开始）"
+        required: false
+        type: string
+      to:
+        description: "回补结束日期 YYYY-MM-DD（留空 = 上个月最后一天）"
+        required: false
+        type: string
+
+# 需要写回仓库（提交归档）
+permissions:
+  contents: write
+
+# 同一时刻只允许一个实例改文件；后到的排队等待，而不是取消
+concurrency:
+  group: monthly-sentence
+  cancel-in-progress: false
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
+    steps:
+      # 需要完整历史：提交后若推送失败要 git pull --rebase，浅克隆容易出问题
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: 抓取并归档
+        env:
+          INPUT_FROM: ${{ inputs.from }}
+          INPUT_TO: ${{ inputs.to }}
+        run: |
+          if [ -n "$INPUT_FROM" ] || [ -n "$INPUT_TO" ]; then
+            node daily-sentence.mjs --from "$INPUT_FROM" --to "$INPUT_TO"
+          else
+            node daily-sentence.mjs
+          fi
+
+      - name: 归档连续性体检（仅提示，不阻塞提交）
+        run: node daily-sentence.mjs --check || echo "::warning::归档连续性检查未通过，详见上方日志"
+
+      - name: 提交并推送（仅有变化时）
+        run: |
+          # 先 add 再判断：新月份文件是未跟踪文件，只跑 git diff 是看不到的
+          git add -A
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+            exit 0
+          fi
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: 归档每日一句 $(date +%Y-%m)"
+
+          for i in 1 2 3; do
+            if git push; then
+              echo "推送成功"
+              exit 0
+            fi
+            echo "推送失败，拉取远端后重试（$i/3）"
+            git pull --rebase --autostash origin "$GITHUB_REF_NAME" || true
+            sleep 5
+          done
+
+          echo "多次重试后仍无法推送" >&2
+          exit 1

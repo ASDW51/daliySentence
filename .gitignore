@@ -1,0 +1,8 @@
+# 抓取缓存（回补历史时用于断点续跑，可随时删除）
+.cache/
+
+# 编辑器 / 系统杂项
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
